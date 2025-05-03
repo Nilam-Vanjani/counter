@@ -1,0 +1,35 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    font-family: "Comic Sans MS", "Comic Sans";
+    color: #670D2F;
+}
+body{
+    background-color: #A53860;
+    text-align: center;
+    padding: 35px;
+    font-size: 1.4rem;
+}
+h1{
+    font-size: 3.3rem;
+    padding: 20px;
+}
+.container{
+    background-color: hwb(47 87% 0%);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+    height: vh;
+    width: 80vmin;
+}
+#countdown{
+    padding: 20px;
+}
+#start-button{    
+    font-size: 1.6rem;
+    color: hwb(47 87% 0%);
+    background-color: #670D2F;
+    border-radius: 10px;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+
+}
